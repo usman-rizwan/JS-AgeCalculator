@@ -1,2 +1,4 @@
 # Simple JS AGE CALCULATOR
-https://age-calculator12.netlify.app
+
+https://app.netlify.com/age-calculator12
+
